@@ -1,0 +1,13 @@
+{
+  "name": "api-servicios",
+  "version": "1.0.0",
+  "description": "API REST de servicios de DataPro Ecuador (Node.js + Express)",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
